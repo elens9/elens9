@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-<!--
-**elens9/elens9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 # Olá, me chamo Elen !
 ## Hello, Devs!!
 
 - 😄 Pronomes: ela/dela
+- :space_invader: Idade: 18 anos
 - ⚡ Fun fact: amo livros
-:confounded: Trabalho com: crianças num parque infantil
-:frowning: Cursando: ciências da computação
-:rage3: Moro em: Porto Alegre, RS
--->
+- :balloon: Trabalho com: crianças num parque infantil
+- :frowning: Cursando: ciências da computação
+- :rage3: Moro em: Porto Alegre, RS
+
 
