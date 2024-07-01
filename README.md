@@ -8,7 +8,7 @@
 ## Hello, Devs!!
 
 - 😄 Pronomes: ela/dela
-- :space_invader: Idade: 18 anos
+- :space_invader: Idade: 19 anos
 - ⚡ Fun fact: amo livros
 - :balloon: Trabalho com: crianças num parque infantil
 - :frowning: Cursando: ciências da computação
